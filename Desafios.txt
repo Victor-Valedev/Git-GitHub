@@ -1,11 +1,6 @@
-//01 - Crie uma conta no GitHub
-//02 -Crie um repositório para um projeto pessoal.
-//03 - Faça a instalação do Git
-//04 - Crie um repositório localmente para o seu projeto pessoal
-//05 - Adicione alguns arquivos no seu repositório local
-//06 - Faça o commit das alterações
-//07 - Configure a identidade do autor do commit.
-//08 - Crie a branch Main
-//09 - Realize a conexão do seu repositório local com o remoto
-//10 - Envie as alterações no repositório local para o remoto
-//11 - Utilize o comando git status
+//01 - Crie um novo repositório remoto no Github e insira um arquivo.
+//02 - Faça um clone do seu repositório remoto para o local.
+//03 - Faça uma nova modificação no repositório remoto.
+//04 - Atualize seu repositório local a partir do Remoto.
+//05 - Utilize o comando git remote -v no terminal.
+//06 - Confira as mudanças nos arquivos.
