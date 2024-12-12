@@ -1,6 +1,4 @@
-//01 - Acesse todos os commits realizados
-//02 - Modifique o último commit
-//03 - Reverta mudanças no repositório local
-//04 - Apague um ou mais commits
-//05 - Sincronize as modificações com o repositório remoto
-//06 - Analise as mensagens de commits realizados e faça as alterações de acordo com as boas práticas
+//01 - Criar um README.md para documentação de seu projeto
+//02 - Crie um arquivo .txt com os logs de commits no seu projeto
+//03 - Ignore o arquivo de logs durante a sincronização do repositório local para o remoto
+//04 - Crie um README.md para o seu perfil do github
