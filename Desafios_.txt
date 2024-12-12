@@ -1,0 +1,7 @@
+//01 - Crie um novo repositório local
+//02 - Adicione o repositório remoto criado nos exercícios anteriores ao seu repositório local.
+//03 - Faça uma alteração no repositório local e envie para o remoto.
+//04 - Resolva os conflitos manualmente, escolhendo quais alterações serão mantidas
+//05 - Realize um commit para registrar a resolução do conflito.
+//06 - Verifique quais arquivos foram adicionados
+//07 - Sincronize o repositório local com o repositório remoto no GitHub.

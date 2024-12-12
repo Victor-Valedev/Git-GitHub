@@ -1,6 +1,0 @@
-//01 - Crie um novo repositório remoto no Github e insira um arquivo.
-//02 - Faça um clone do seu repositório remoto para o local.
-//03 - Faça uma nova modificação no repositório remoto.
-//04 - Atualize seu repositório local a partir do Remoto.
-//05 - Utilize o comando git remote -v no terminal.
-//06 - Confira as mudanças nos arquivos.
